@@ -102,4 +102,4 @@ Then open `notebooks/analysis.ipynb` for the full analysis.
 
 ## Author
 
-Tommaso Cecchellero · [LinkedIn](www.linkedin.com/in/tommaso-cecchellero-74b1ba298)
+Tommaso Cecchellero · [LinkedIn](https://www.linkedin.com/in/tommaso-cecchellero-74b1ba298)
